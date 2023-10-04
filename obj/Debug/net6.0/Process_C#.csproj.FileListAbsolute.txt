@@ -1,0 +1,15 @@
+C:\Users\maxx5\Desktop\Process_C#\bin\Debug\net6.0\Process_C#.exe
+C:\Users\maxx5\Desktop\Process_C#\bin\Debug\net6.0\Process_C#.deps.json
+C:\Users\maxx5\Desktop\Process_C#\bin\Debug\net6.0\Process_C#.runtimeconfig.json
+C:\Users\maxx5\Desktop\Process_C#\bin\Debug\net6.0\Process_C#.dll
+C:\Users\maxx5\Desktop\Process_C#\bin\Debug\net6.0\Process_C#.pdb
+C:\Users\maxx5\Desktop\Process_C#\obj\Debug\net6.0\Process_C#.csproj.AssemblyReference.cache
+C:\Users\maxx5\Desktop\Process_C#\obj\Debug\net6.0\Process_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxx5\Desktop\Process_C#\obj\Debug\net6.0\Process_C#.AssemblyInfoInputs.cache
+C:\Users\maxx5\Desktop\Process_C#\obj\Debug\net6.0\Process_C#.AssemblyInfo.cs
+C:\Users\maxx5\Desktop\Process_C#\obj\Debug\net6.0\Process_C#.csproj.CoreCompileInputs.cache
+C:\Users\maxx5\Desktop\Process_C#\obj\Debug\net6.0\Process_C#.dll
+C:\Users\maxx5\Desktop\Process_C#\obj\Debug\net6.0\refint\Process_C#.dll
+C:\Users\maxx5\Desktop\Process_C#\obj\Debug\net6.0\Process_C#.pdb
+C:\Users\maxx5\Desktop\Process_C#\obj\Debug\net6.0\Process_C#.genruntimeconfig.cache
+C:\Users\maxx5\Desktop\Process_C#\obj\Debug\net6.0\ref\Process_C#.dll
